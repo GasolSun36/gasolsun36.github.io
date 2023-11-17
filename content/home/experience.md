@@ -43,7 +43,7 @@ experience:
     company_url: 'http://www.fj.sgcc.com.cn/html/'
     company_logo: sgc
     location: Fujian, China
-    date_start: '2021-8-1'
+    date_start: '2021-8-01'
     date_end: '2021-8-03'
 design:
   columns: '2'
