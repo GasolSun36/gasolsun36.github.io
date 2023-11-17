@@ -1,72 +1,70 @@
 ---
 # Display name
-title: Jiashuo Sun
+title: Yanhao Jia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate student@XMU
+role: Postgraduate student@UCAS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Xiamen University
-    url: https://www.xmu.edu.cn/
+  - name: University of Chinese Academy of Sciences
+    url: https://www.ucas.ac.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP, Retrieval, Question Answering and Reasoning.
+bio: My research interests include distributed CV, Retrieval and AI4Sci.
 
 # Interests to show in About widget
 interests:
-  - Large Language Models
-  - Retrieval
-  - Reasoning
-  - Open Domain QA
+  - Multi-Modal Retrieval
+  - AI4Science(Physics, Material, Education)
+  - AIGC with Diffusion Model
+  - Object Detection & Segmentation
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science
-      institution: Xiamen University
+    - course: M.S. in Computer Science, 
+      institution: University of Chinese Academy of Sciences
       year: 2021-2024(expected)
     - course: B.S. in Computer Science
       institution: Shandong University
       year: 2017-2021
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gasolsun36@gmail.com'
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:jiayanhao.publish@gmail.com'
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gasolsun36
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E5%98%89%E7%A1%95-%E5%AD%99-b67857190/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'gasolsun36@gmail.com'
+    link: https://github.com/YanhaoJia
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+    display:
+        header: false
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am now a second-year student at the Xiamen University, advised by Prof. [Chen Lin](https://cs.xmu.edu.cn/info/1008/1216.htm) and Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/).
 
-I am working as a research intern at [International Digital Economy Academy](https://idea.edu.cn/).
+I am now a third-year student at the University of Chinese Academy of Sciences, advised by Prof. Chengxin Zhao.
 
-My research interests include Natural Language Processing, Retrieval, Natural Language Generation, Question Answering, and Numerical Reasoning. Specially, I aim to develop models with human reasoning capabilities.
+I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm).
 
+Before joining PKU, I have been an AI engineer at Shanghai AI Lab in 2021-2023.
+
+My research interests include Multi-Modal Retrieval, AIGC with Diffusion Model, and Object Detection & Segmentation. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
+{style="text-align: justify;"}
