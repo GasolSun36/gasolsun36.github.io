@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science, 
+    - course: M.S. in Computer Science
       institution: University of Chinese Academy of Sciences
       year: 2021-2024(expected)
     - course: B.S. in Computer Science
@@ -43,7 +43,7 @@ social:
     link: 'mailto:jiayanhao.publish@gmail.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: ''
   - icon: github
     icon_pack: fab
     link: https://github.com/YanhaoJia
