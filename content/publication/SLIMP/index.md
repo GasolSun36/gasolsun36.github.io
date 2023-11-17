@@ -1,39 +1,41 @@
 ---
-title: 'APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning'
+title: 'Design and characterization of multichannel front-end electronics for detectors at HIRFL and HIAF'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Shucai Wan
+  - Haibo Yang
+  - Jieyu Zhu
+  - Chengcheng Liu
+  - Yingdong Song
   - admin
-  - Hang Zhang
-  - Chen Lin
-  - Yeyun Gong
-  - Jian Guo
-  - Nan Duan
+  - Tao Liu
+  - Chengxin Zhao
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-12-14T00:00:00Z'
+date: '2023-09-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-12-14T00:00:00Z'
+publishDate: '2023-09-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 'Journal of Instrumentation'
 publication_short: 
 
-abstract: Long-form numerical reasoning in financial analysis aims to generate a reasoning program to calculate the correct answer for a given question. Previous work followed a retriever-generator framework, where the retriever selects key facts from a long-form document, and the generator generates a reasoning program based on retrieved facts. However, they treated all facts equally without considering the different contributions of facts with and without numbers. Meanwhile, the program consistency were ignored under supervised training, resulting in lower training accuracy and diversity. To solve these problems, we proposed APOLLO to improve the long-form numerical reasoning framework. For the retriever, we adopt a number-aware negative sampling strategy to enable the retriever to be more discriminative on key numerical facts. For the generator, we design consistency-based reinforcement learning and target program augmentation strategy based on the consistency of program execution results. Experimental results on the FinQA and ConvFinQA leaderboard verify the effectiveness of our proposed method, achieving the new state-of-the-art.
+abstract: A multichannel front-end readout electronics (MFEE has been designed for readout in detectors in the heavy ion facility in Lanzhou (HIRFL) and the high-intensity heavy-ion accelerator facility (HIAF). With 40 gains, this MFEE can meet the need for most of the experiment. One MFEE can read and process the output signals of 128 channels of a detector at the same time. a MFEE is based on the AD8488 chip and uses Xilinx Kintex 7 series FPGA, combined with the periphery circuits design, to complete the detector's output charge signal readout. This paper will discuss the design and performance of the MFEE.
 
 tags: []
 
@@ -57,18 +59,15 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '[**APOLLO**](https://arxiv.org/abs/2212.07249)'
+  caption: '[**SLIMP**]()'
   focal_point: ''
   preview_only: false
 
 links:
   - name: Paper
-    url: https://arxiv.org/abs/2212.07249
+    url: 
   - name: Code
-    url: https://github.com/GasolSun36/APOLLO
-  - name: Leaderboard
-    url: https://codalab.lisn.upsaclay.fr/competitions/8582#results
-
+    url: 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
