@@ -64,7 +64,7 @@ I am now a third-year student at the University of Chinese Academy of Sciences, 
 
 I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm).
 
-Before joining PKU, I have been an AI engineer at Shanghai AI Lab in 2021-2023.
+Before joining PKU, I have been an AI4Edu Algorithm Researcher and lead the developer team of [OpenXLab-Edu](https://xedu.readthedocs.io/zh/master/about/team.html) at Shanghai AI Lab in 2021-2023.
 
 My research interests include Multi-Modal Retrieval, AIGC with Diffusion Model, and Object Detection & Segmentation. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
 {style="text-align: justify;"}
