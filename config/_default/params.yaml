@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Jiashuo Sun'
+    description: 'Yanhao Jia'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jiashuo Sun'
+    notice: '© {year} Yanhao Jia'
     license:
       enable: false
       allow_derivatives: false
