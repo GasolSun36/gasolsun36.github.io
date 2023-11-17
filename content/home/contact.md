@@ -25,14 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: gasolsun36@gmail.com
-  address:
-    street: No.5 Shihana Road
-    city: Shenzhen
-    region: CN
-    postcode: '518000'
-    country: China
-    country_code: CN
+  email: jiayanhao.publish@gmail.com
   # contact_links:
   #   - icon: twitter
   #     icon_pack: fab

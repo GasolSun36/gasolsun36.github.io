@@ -23,21 +23,28 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: FinAI, International Digital Economy Academy
-    company_url: 'https://idea.edu.cn'
-    company_logo: idea
+    company: School of Electronic and Computer Engineering, Peking University
+    company_url: 'https://www.ece.pku.edu.cn'
+    company_logo: pku
     location: Shenzhen, China
-    date_start: '2023-04-06'
+    date_start: '2023-05-06'
     date_end: ''
-    description: Advised by Prof. [Jian Guo](https://www.idea.edu.cn/person/guojian/) and Prof. [Heung-Yeung Shum](https://scholar.google.com.hk/citations?user=9akH-n8AAAAJ&hl=zh-CN)
-  - title: Online Research Intern
-    company: Microsoft Research Asia
-    company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
-    company_logo: msra
-    location: Remote
-    date_start: '2022-03-01'
-    date_end: '2023-04-01'
-    description: Advised by Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/)
+    description: Advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm)
+  - title: AI Engineer
+    company: Shanghai AI Lab
+    company_url: 'https://www.shlab.org.cn'
+    company_logo: ailab
+    location: Shanghai, China
+    date_start: '2021-11-10'
+    date_end: '2023-03-01'
+    description: Lead the team of [OpenXLab-Edu](https://xedu.readthedocs.io/)
+  - title: AI Teaching Assistant
+    company: State Gird Fujian Electric Power Company
+    company_url: 'http://www.fj.sgcc.com.cn/html/'
+    company_logo: sgc
+    location: Fujian, China
+    date_start: '2021-8-1'
+    date_end: '2021-8-03'
 design:
   columns: '2'
 ---
