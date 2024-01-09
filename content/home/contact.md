@@ -27,10 +27,10 @@ content:
   # Contact details (edit or remove options as required)
   email: gasolsun36@gmail.com
   address:
-    street: No.5 Shihana Road
-    city: Shenzhen
+    street: Yunjin Road
+    city: Shanghai
     region: CN
-    postcode: '518000'
+    postcode: '200000'
     country: China
     country_code: CN
   # contact_links:

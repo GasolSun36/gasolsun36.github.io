@@ -23,12 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: General Technology Research, Shanghai AI Laboratory
+    company_url: 'https://www.shlab.org.cn/'
+    company_logo: shanghai_ai_lab
+    location: Shanghai, China
+    date_start: '2024-01-09'
+    date_end: ''
+    description: Advised by Doc. [Xiaoye Qu](https://scholar.google.com.hk/citations?hl=zh-CN&user=rT3hqdcAAAAJ) and Prof. [Yu Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=rT3hqdcAAAAJ)
+  - title: Research Intern
     company: FinAI, International Digital Economy Academy
     company_url: 'https://idea.edu.cn'
     company_logo: idea
     location: Shenzhen, China
     date_start: '2023-04-06'
-    date_end: ''
+    date_end: '2024-01-06'
     description: Advised by Prof. [Jian Guo](https://www.idea.edu.cn/person/guojian/) and Prof. [Heung-Yeung Shum](https://scholar.google.com.hk/citations?user=9akH-n8AAAAJ&hl=zh-CN)
   - title: Online Research Intern
     company: Microsoft Research Asia
