@@ -25,11 +25,11 @@ experience:
   - title: Research Intern
     company: General Technology Research, Shanghai AI Laboratory
     company_url: 'https://www.shlab.org.cn/'
-    company_logo: shanghai_ai_lab
+    company_logo: pjlab
     location: Shanghai, China
     date_start: '2024-01-09'
     date_end: ''
-    description: Advised by Doc. [Xiaoye Qu](https://scholar.google.com.hk/citations?hl=zh-CN&user=rT3hqdcAAAAJ) and Prof. [Yu Cheng](https://scholar.google.com.hk/citations?user=ORPxbV4AAAAJ&hl=zh-CN&oi=ao)
+    description: Advised by Dr. [Xiaoye Qu](https://scholar.google.com.hk/citations?hl=zh-CN&user=rT3hqdcAAAAJ) and Prof. [Yu Cheng](https://scholar.google.com.hk/citations?user=ORPxbV4AAAAJ&hl=zh-CN&oi=ao)
   - title: Research Intern
     company: FinAI, International Digital Economy Academy
     company_url: 'https://idea.edu.cn'
