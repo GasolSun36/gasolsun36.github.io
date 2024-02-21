@@ -43,10 +43,10 @@ social:
     link: 'mailto:gasolsun36@gmail.com'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=JCUiEM4AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://scholar.google.com.hk/citations?user=JCUiEM4AAAAJ&hl=zh-CN
+    link: https://github.com/gasolsun36
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E5%98%89%E7%A1%95-%E5%AD%99-b67857190/
