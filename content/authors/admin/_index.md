@@ -70,7 +70,9 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 My research interests include Natural Language Processing, Retrieval, Natural Language Generation, Numerical Reasoning and Knowledge-Augmented LLM. Specially, I aim to develop models exceed the level of human knowledge and have human reasoning capabilities.
 
-News:
+**News**:
+- 03/2024: 1 paper is accepted by IJCNN 2024: TableLLM.
 - 03/2024: 2 papers are accepted by NAACL 2024: [Iter-CoT](https://arxiv.org/abs/2304.11657).
 - 02/2024: 1 paper is accepted by COLING 2024: [APOLLO](https://arxiv.org/abs/2212.07249).
 - 02/2024: 1 paper is accepted by ICLR 2024: [Think-on-Graph](https://arxiv.org/abs/2307.07697).
+- 12/2023: Looking for a Fall 2024 Ph.D. position. If you are interested in working with me, please drop me an email.
