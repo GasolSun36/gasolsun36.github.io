@@ -21,7 +21,8 @@ interests:
   - Large Language Models
   - Retrieval
   - Reasoning
-  - Knowledge-Augmented LLM
+  - Knowledge-Augmented LLMs
+  - Multi-modal LLMs
 
 # Education to show in About widget
 education:
