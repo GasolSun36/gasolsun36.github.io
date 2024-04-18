@@ -31,6 +31,14 @@ experience:
     date_end: ''
     description: Advised by Dr. [Xiaoye Qu](https://scholar.google.com.hk/citations?hl=zh-CN&user=rT3hqdcAAAAJ) and Prof. [Yu Cheng](https://scholar.google.com.hk/citations?user=ORPxbV4AAAAJ&hl=zh-CN&oi=ao)
   - title: Research Intern
+    company: University of Wisconsin-Madison
+    company_url: 'https://www.wisc.edu/'
+    company_logo: uwm
+    location: Remote
+    date_start: '2024-04-16'
+    date_end: ''
+    description: Advised by Prof. [Chaowei Xiao](https://xiaocw11.github.io/)
+  - title: Research Intern
     company: FinAI, International Digital Economy Academy
     company_url: 'https://idea.edu.cn'
     company_logo: idea

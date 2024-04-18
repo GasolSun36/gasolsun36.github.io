@@ -67,7 +67,7 @@ highlight_name: true
 ---
 I am now a final-year student at the Xiamen University, advised by Prof. [Chen Lin](https://cs.xmu.edu.cn/info/1008/1216.htm) and Dr. [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/).
 
-I am currently working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) General Technology Research.
+I am currently working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) General Technology Research. I also work closely with Prof. [Chaowei Xiao](https://xiaocw11.github.io/) from University of Wisconsin-Madison.
 
 My research interests include Natural Language Processing, Retrieval, Natural Language Generation, Numerical Reasoning and Knowledge-Augmented LLM. Specially, I aim to develop models exceed the level of human knowledge and have human reasoning capabilities.
 
