@@ -30,7 +30,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🤝 **Looking for a Fall 2025 Ph.D. position! If you are interested in working with me, please drop me an email.**
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper ([ConflictBank](https://arxiv.org/pdf/2408.12076)) is accepted by eurIPS 2024 Track Datasets and Benchmarks! 
+- *2024.09*: &nbsp;🎉🎉 One paper ([ConflictBank](https://arxiv.org/pdf/2408.12076)) is accepted by NeurIPS 2024 Track Datasets and Benchmarks! 
 - *2024.09*: &nbsp;🎉🎉 One paper ([SURf](https://arxiv.org/abs/2409.14083#:~:text=Large%20Vision-Language%20Models%20(LVLMs)%20have%20become%20pivotal%20at)) is accepted by EMNLP 2024! 
 - *2024.08*: &nbsp;🎉🎉 Starting a new position as Research Engineer at DAMO Academy, Alibaba Group!
 - *2024.03*: &nbsp;🎉🎉 One paper (TableLLM) is accepted by IJCNN 2024!
