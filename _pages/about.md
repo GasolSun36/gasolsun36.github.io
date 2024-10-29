@@ -58,8 +58,6 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 - ``Submission to Journals`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
-- ``Submission to ICLR 2025`` Prompt Injection Benchmark for Foundation Model Integrated Systems, Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, **Jiashuo Sun**, Yiming Liang, Tian Xia, Yu Wang, Weidi Luo, Chaowei Xiao
-
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
 
