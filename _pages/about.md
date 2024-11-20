@@ -26,7 +26,6 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 - **LLM-Agent** that creates interfaces to help LLMs and humans communicate, interact, and exchange knowledge. I believe all these questions are fundamental for bridging the gap between LLMs and human intelligence, and their solutions will play significant roles in implementing a knowledge-centric AI.
 - **Large-Vision Language Models (LVLMs)** that enables LVLMs to better understand images, comprehend user intent, and mitigate hallucination issues.
 
-
 🤝 **Looking for a Fall 2025 Ph.D. position! If you are interested in working with me, please drop me an email.**
 
 # 🔥 News
@@ -58,6 +57,10 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 - ``Submission to Journals`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
+- ``Submission to CVPR 2025`` 2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining, Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
+
+- ``Submission to ICLR 2025`` Prompt Injection Benchmark for Foundation Model Integrated Systems, Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, **Jiashuo Sun**, Yiming Liang, Tian Xia, Yu Wang, Weidi Luo, Chaowei Xiao
+
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
 
@@ -73,7 +76,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 - *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University.
 
 # 💁 Volunteer
-- Conference Reviewer: ARR, ACL, EMNLP, ACMM, TKDE, ICLR
+- Conference Reviewer: ARR, ACL, EMNLP, NAACL, ACMM, TKDE, ICLR
 - *2022.09 - 2023.03*, Object Oriented Programming (2022 Fall) **Teaching Assistant**
 
 
