@@ -40,27 +40,27 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=JCUiEM4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-- ``ICLR 2024`` [Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](https://arxiv.org/pdf/2307.07697.pdf), **Jiashuo Sun**, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum, Jian Guo.
+1. ``ICLR 2024`` [Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](https://arxiv.org/pdf/2307.07697.pdf), **Jiashuo Sun**, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum, Jian Guo.
 
-- ``COLING 2024`` [APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning](https://arxiv.org/abs/2212.07249), **Jiashuo Sun**, Hang Zhang, Chen Lin, Yeyun Gong, Jian Guo, Nan Duan.
+2. ``COLING 2024`` [APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning](https://arxiv.org/abs/2212.07249), **Jiashuo Sun**, Hang Zhang, Chen Lin, Yeyun Gong, Jian Guo, Nan Duan.
 
-- ``NAACL 2024 Findings`` [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/pdf/2304.11657.pdf), **Jiashuo Sun**, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
+3. ``NAACL 2024 Findings`` [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/pdf/2304.11657.pdf), **Jiashuo Sun**, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
 
-- ``IJCNN 2024`` TableLLM: Effective Training Framework for Table Reasoning in Large Language Models, **Jiasuho Sun**, Chengjin Xu, Jian Guo.
+4. ``IJCNN 2024`` TableLLM: Effective Training Framework for Table Reasoning in Large Language Models, **Jiasuho Sun**, Chengjin Xu, Jian Guo.
 
-- ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/abs/2409.14083#:~:text=Large%20Vision-Language%20Models%20(LVLMs)%20have%20become%20pivotal%20at), **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
+5. ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/abs/2409.14083#:~:text=Large%20Vision-Language%20Models%20(LVLMs)%20have%20become%20pivotal%20at), **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
 
-- ``COLING 2025`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
+6. ``COLING 2025`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
 
-- ``NAACL 2024`` [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/abs/2403.11838), Yi Luo, Zhenghao Lin, Yuhao Zhang, **Jiashuo Sun**, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong.
+7. ``NAACL 2024`` [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/abs/2403.11838), Yi Luo, Zhenghao Lin, Yuhao Zhang, **Jiashuo Sun**, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong.
 
-- ``NeurIPS 2024 Track Datasets and Benchmarks`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
+8. ``NeurIPS 2024 Track Datasets and Benchmarks`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
 
-- ``Submission to TOMM`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
+9. ``Submission to TOMM`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
-- ``Submission to CVPR 2025`` 2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining, Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
+10. ``Submission to CVPR 2025`` 2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining, Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
 
-- ``Submission to ICLR 2025`` Prompt Injection Benchmark for Foundation Model Integrated Systems, Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, **Jiashuo Sun**, Yiming Liang, Tian Xia, Yu Wang, Weidi Luo, Chaowei Xiao
+11. ``Submission to ICLR 2025`` Prompt Injection Benchmark for Foundation Model Integrated Systems, Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, **Jiashuo Sun**, Yiming Liang, Tian Xia, Yu Wang, Weidi Luo, Chaowei Xiao
 
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
