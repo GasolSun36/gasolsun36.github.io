@@ -44,7 +44,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 2. ``COLING 2024`` [APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning](https://arxiv.org/abs/2212.07249), **Jiashuo Sun**, Hang Zhang, Chen Lin, Yeyun Gong, Jian Guo, Nan Duan.
 
-3. ``NAACL 2024 Findings`` [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/pdf/2304.11657.pdf), **Jiashuo Sun**, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
+3. ``NAACL 2024 Findings`` [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf), **Jiashuo Sun**, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
 
 4. ``IJCNN 2024`` TableLLM: Effective Training Framework for Table Reasoning in Large Language Models, **Jiasuho Sun**, Chengjin Xu, Jian Guo.
 
@@ -58,7 +58,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 9. ``Submission to TOMM`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
-10. ``Submission to CVPR 2025`` 2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining, Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
+10. ``Submission to CVPR 2025`` [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/pdf/2501.00958), Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
 
 11. ``Submission to ICLR 2025`` Prompt Injection Benchmark for Foundation Model Integrated Systems, Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, **Jiashuo Sun**, Yiming Liang, Tian Xia, Yu Wang, Weidi Luo, Chaowei Xiao
 
