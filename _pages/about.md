@@ -26,7 +26,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 - **LLM-Agent** that creates interfaces to help LLMs and humans communicate, interact, and exchange knowledge. I believe all these questions are fundamental for bridging the gap between LLMs and human intelligence, and their solutions will play significant roles in implementing a knowledge-centric AI.
 - **Large-Vision Language Models (LVLMs)** that enables LVLMs to better understand images, comprehend user intent, and mitigate hallucination issues.
 
-🤝 **Looking for a Fall 2025 Ph.D. position! If you are interested in working with me, please drop me an email.**
+🤝 **Looking for collaboration! If you are interested in working with me, please drop me an email.**
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper ([MVP](https://arxiv.org/pdf/2408.17150)) is accepted by COLING 2025!
