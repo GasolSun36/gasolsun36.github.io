@@ -59,9 +59,11 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 9. ``Submission to TOMM`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
-10. ``Submission to CVPR 2025`` [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/pdf/2501.00958), Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
+10. ``Submission to ICCV 2025`` [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/pdf/2501.00958), Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
 
-11. ``Submission to ICLR 2025`` Prompt Injection Benchmark for Foundation Model Integrated Systems, Jiongxiao Wang, Peiran Li, Siyuan Ma, Peiran Wang, Xiaogeng Liu, **Jiashuo Sun**, Yiming Liang, Tian Xia, Yu Wang, Weidi Luo, Chaowei Xiao
+11. ``Submission to ICML 2025`` DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation, **Jiashuo Sun**, Xianrui Zhong, Sizhe Zhou, Jiawei Han
+
+12. ``Submission to ACL 2025`` [From Captions to Rewards (CAREVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models](https://arxiv.org/pdf/2503.06260), Muzhi Dai, **Jiashuo Sun**, Zhiyuan Zhao, Shixuan Liu, Rui Li, Junyu Gao, Xuelong Li
 
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
