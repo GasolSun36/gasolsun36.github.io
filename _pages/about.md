@@ -59,8 +59,6 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 9. ``Submission to ICCV 2025`` [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/pdf/2501.00958), Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
 
-10. ``Submission to ICML 2025`` DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation, **Jiashuo Sun**, Xianrui Zhong, Sizhe Zhou, Jiawei Han
-
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
 
