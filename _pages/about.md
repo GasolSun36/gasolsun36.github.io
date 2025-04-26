@@ -75,7 +75,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 # 💁 Volunteer
 - Area Chair: ARR, ACL
-- Conference Reviewer: ARR, ACL, EMNLP, NAACL, ACMM, TKDE, ICLR
+- Conference Reviewer: ARR, ACL, EMNLP, NAACL, ACMM, TKDE, ICCV, ICLR
 - *2022.09 - 2023.03*, Object Oriented Programming (2022 Fall) **Teaching Assistant**
 
 
