@@ -55,9 +55,11 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 7. ``NeurIPS 2024 Track Datasets and Benchmarks`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, **Jiashuo Sun**, Juntao Li, Min Zhang, Yu Cheng.
 
-8. ``Submission to TOMM`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
+8. ``TOMM 2025`` [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555), Xiaoye Qu, Qiyuan Chen, Wei wei, **Jiashuo Sun**, Jianfeng Dong.
 
 9. ``Submission to ICCV 2025`` [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/pdf/2501.00958), Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
+
+10. ``Submission to ACMM 2025`` [From Captions to Rewards (CaReVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models](https://arxiv.org/abs/2503.06260), Muzhi Dai, **Jiashuo Sun**, Zhiyuan Zhao, Shixuan Liu, Rui Li, Junyu Gao, Xuelong Li
 
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
@@ -74,8 +76,8 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 - *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University.
 
 # 💁 Volunteer
-- Area Chair: ARR, ACL
-- Conference Reviewer: ARR, ACL, EMNLP, NAACL, ACMM, TKDE, ICCV, ICLR
+- Area Chair: ARR, ACL, EMNLP
+- Conference Reviewer: ARR, ICLR, NeurIPS, ACL, EMNLP, ICCV, NAACL, ACMM, TKDE
 - *2022.09 - 2023.03*, Object Oriented Programming (2022 Fall) **Teaching Assistant**
 
 
