@@ -22,7 +22,7 @@ I am currently working at **DAMO Academy, Alibaba Group** as a research engineer
 Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively.
 
 🤔 Currently, my research interests are primarily focused on Large Language Models (LLMs), covering the following topics:
-- **Knowledge-Augmented LLMs** allow LLMs to make full use of external knowledge to solve real-world problems
+- **Knowledge-Augmented LLMs** allow LLMs to make full use of external knowledge to solve real-world problems.
 - **LLM-Agent** that creates interfaces to help LLMs and humans communicate, interact, and exchange knowledge. I believe all these questions are fundamental for bridging the gap between LLMs and human intelligence, and their solutions will play significant roles in implementing a knowledge-centric AI.
 - **Reinforcement Learning** that can train the model without human knowledge and even beyond human performance.
 - **Large-Vision Language Models (LVLMs)** that enables LVLMs to better understand images, comprehend user intent, and mitigate hallucination issues.
