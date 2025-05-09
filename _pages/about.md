@@ -27,7 +27,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 - **Reinforcement Learning** that can train the model without human knowledge and even beyond human performance.
 - **Large-Vision Language Models (LVLMs)** that enables LVLMs to better understand images, comprehend user intent, and mitigate hallucination issues.
 
-🤝 **Looking for collaboration! If you are interested in working with me, please drop me an email.**
+🤝 **Looking for collaboration! If you are interested in working with me with any topics, please drop me an email.**
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper ([MVP](https://arxiv.org/pdf/2408.17150)) is accepted by COLING 2025!
