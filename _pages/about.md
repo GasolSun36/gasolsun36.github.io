@@ -41,15 +41,15 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=JCUiEM4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-1. ``ICLR 2024`` [Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](https://arxiv.org/pdf/2307.07697.pdf), **Jiashuo Sun**, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum, Jian Guo.
+1. ``ICLR 2024`` [Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](https://arxiv.org/pdf/2307.07697.pdf), **Jiashuo Sun**&ast;, Chengjin Xu&ast;, Lumingyuan Tang&ast;, Saizhuo Wang&ast;, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum, Jian Guo.
 
 2. ``COLING 2024`` [APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning](https://arxiv.org/abs/2212.07249), **Jiashuo Sun**, Hang Zhang, Chen Lin, Yeyun Gong, Jian Guo, Nan Duan.
 
-3. ``NAACL 2024 Findings`` [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf), **Jiashuo Sun**, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
+3. ``NAACL 2024 Findings`` [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf), **Jiashuo Sun**&ast;, Yi Luo&ast;, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
 
 4. ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/abs/2409.14083#:~:text=Large%20Vision-Language%20Models%20(LVLMs)%20have%20become%20pivotal%20at), **Jiashuo Sun**, Jihai Zhang, Chengyu Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
 
-5. ``COLING 2025`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu<sup>*</sup>, **Jiashuo Sun<sup>*</sup>**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
+5. ``COLING 2025`` [Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150), Xiaoye Qu, **Jiashuo Sun**, Wei Wei, Daizong Liu, Jianfeng Dong, Yong Deng, Weitao Zheng, Yu Cheng
 
 6. ``NAACL 2024`` [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/abs/2403.11838), Yi Luo, Zhenghao Lin, Yuhao Zhang, **Jiashuo Sun**, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong.
 
@@ -60,6 +60,10 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 9. ``Submission to ICCV 2025`` [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/pdf/2501.00958), Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
 
 10. ``Submission to ACMM 2025`` [From Captions to Rewards (CaReVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models](https://arxiv.org/abs/2503.06260), Muzhi Dai, **Jiashuo Sun**, Zhiyuan Zhao, Shixuan Liu, Rui Li, Junyu Gao, Xuelong Li
+
+11. ``Submission to NeurIPS 2025`` [DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation](https://www.arxiv.org/abs/2505.07233), **Jiashuo Sun**, Xianrui Zhong, Sizhe Zhou, Jiawei Han
+
+12. ``Submission to NeurIPS 2025 Track Datasets and Benchmarks`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang&ast;, **Jiashuo Sun**&ast;, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
 
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
