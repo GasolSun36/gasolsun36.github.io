@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working at **DAMO Academy, Alibaba Group** as a research engineer.
+I am a incoming Ph.D. student in Computer Science at **University of Illinois Urbana-Champaign (UIUC)**. 
 
-Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively.
+Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively. I also worked as researcher at **DAMO Academy, Alibaba Group** from August, 2024 to June, 2025.
+
 
 🤔 Currently, my research interests are primarily focused on Large Language Models (LLMs), covering the following topics:
 - **Knowledge-Augmented LLMs** allow LLMs to make full use of external knowledge to solve real-world problems.
