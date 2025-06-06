@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a incoming Ph.D. student in Computer Science at **University of Illinois Urbana-Champaign (UIUC)**. 
+I am a incoming Ph.D. student in Computer Science at **University of Illinois Urbana-Champaign (UIUC)**, under the supervision of [Prof. Jiawei Han](http://hanj.cs.illinois.edu/). 
 
 Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively. I also worked as researcher at **DAMO Academy, Alibaba Group** from August, 2024 to June, 2025.
 
