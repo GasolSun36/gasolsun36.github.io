@@ -31,6 +31,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🤝 **Looking for collaboration! If you are interested in working with me with any topics, please drop me an email.**
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper ([CaReVL]([https://arxiv.org/pdf/2408.17150](https://arxiv.org/abs/2503.06260))) is accepted by ACMM 2025!
 - *2024.11*: &nbsp;🎉🎉 One paper ([MVP](https://arxiv.org/pdf/2408.17150)) is accepted by COLING 2025!
 - *2024.09*: &nbsp;🎉🎉 One paper ([ConflictBank](https://arxiv.org/pdf/2408.12076)) is accepted by NeurIPS 2024 Track Datasets and Benchmarks! 
 - *2024.09*: &nbsp;🎉🎉 One paper ([SURf](https://arxiv.org/abs/2409.14083#:~:text=Large%20Vision-Language%20Models%20(LVLMs)%20have%20become%20pivotal%20at)) is accepted by EMNLP 2024! 
@@ -60,7 +61,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 9. ``Submission to ICCV 2025`` [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/pdf/2501.00958), Wenqi Zhang, Hang Zhang, Xin Li, **Jiashuo Sun**, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
 
-10. ``Submission to ACMM 2025`` [From Captions to Rewards (CaReVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models](https://arxiv.org/abs/2503.06260), Muzhi Dai, **Jiashuo Sun**, Zhiyuan Zhao, Shixuan Liu, Rui Li, Junyu Gao, Xuelong Li
+10. ``ACMM 2025`` [From Captions to Rewards (CaReVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models](https://arxiv.org/abs/2503.06260), Muzhi Dai, **Jiashuo Sun**, Zhiyuan Zhao, Shixuan Liu, Rui Li, Junyu Gao, Xuelong Li
 
 11. ``Submission to NeurIPS 2025`` [DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation](https://www.arxiv.org/abs/2505.07233), **Jiashuo Sun**, Xianrui Zhong, Sizhe Zhou, Jiawei Han
 
