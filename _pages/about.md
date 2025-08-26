@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a incoming Ph.D. student in Computer Science at **University of Illinois Urbana-Champaign (UIUC)**, under the supervision of [Prof. Jiawei Han](http://hanj.cs.illinois.edu/). 
+I am a first-year Ph.D. student in Computer Science at **University of Illinois Urbana-Champaign (UIUC)**, under the supervision of [Prof. Jiawei Han](http://hanj.cs.illinois.edu/). 
 
 Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively. I also worked as researcher at **DAMO Academy, Alibaba Group** from August, 2024 to June, 2025.
-
 
 🤔 Currently, my research interests are primarily focused on Large Language Models (LLMs), covering the following topics:
 - **Knowledge-Augmented LLMs** allow LLMs to make full use of external knowledge to solve real-world problems.
@@ -31,6 +30,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🤝 **Looking for collaboration! If you are interested in working with me with any topics, please drop me an email.**
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Join UIUC!
 - *2025.07*: &nbsp;🎉🎉 One paper ([CaReVL](https://arxiv.org/abs/2503.06260)) is accepted by ACMM 2025!
 - *2025.06*: &nbsp;🎉🎉 One paper ([Multimodal Textbook](https://www.arxiv.org/pdf/2501.00958)) is accepted by ICCV 2025!
 - *2024.11*: &nbsp;🎉🎉 One paper ([MVP](https://arxiv.org/pdf/2408.17150)) is accepted by COLING 2025!
@@ -78,7 +78,8 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 - 2022.11 [ConvFinQA Competition Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/8582) **Rank 1**
 
 # 📖 Educations
-- *2021.09 - 2024.06*, M.S. in Computer Science, Xiamen University 
+- *2025.08 - Present*, Ph.D. in Computer Science, University of Illinois Urbana-Champaign.
+- *2021.09 - 2024.06*, M.S. in Computer Science, Xiamen University.
 - *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University.
 
 # 💁 Volunteer
