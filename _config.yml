@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiashuo Sun"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "DAMO Academy, Alibaba Group"
-  location         : "Hangzhou, China"
+  bio              : "Ph.D. in UIUC"
+  location         : "Champaign, IL, US"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=JCUiEM4AAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=JCUiEM4AAAAJ"
   email            : "gasolsun36@gmail.com"
   researchgate     :  https://www.semanticscholar.org/author/Jiashuo-Sun/2202454665 # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://x.com/SunJiashuo36
   vine             :
   weibo            :
   xing             :
