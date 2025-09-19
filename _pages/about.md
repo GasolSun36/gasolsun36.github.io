@@ -30,6 +30,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🤝 **Looking for collaboration! If you are interested in working with me with any topics, please drop me an email.**
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper ([DynamicRAG](https://www.arxiv.org/abs/2505.07233)) is accepted by NeurIPS 2025! See you in San Diego!
 - *2025.08*: &nbsp;🎉🎉 Join UIUC!
 - *2025.07*: &nbsp;🎉🎉 One paper ([CaReVL](https://arxiv.org/abs/2503.06260)) is accepted by ACMM 2025!
 - *2025.06*: &nbsp;🎉🎉 One paper ([Multimodal Textbook](https://www.arxiv.org/pdf/2501.00958)) is accepted by ICCV 2025!
@@ -63,9 +64,9 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 10. ``ACMM 2025`` [From Captions to Rewards (CaReVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models](https://arxiv.org/abs/2503.06260), Muzhi Dai, **Jiashuo Sun**, Zhiyuan Zhao, Shixuan Liu, Rui Li, Junyu Gao, Xuelong Li
 
-11. ``Submission to NeurIPS 2025`` [DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation](https://www.arxiv.org/abs/2505.07233), **Jiashuo Sun**, Xianrui Zhong, Sizhe Zhou, Jiawei Han
+11. ``NeurIPS 2025`` [DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation](https://www.arxiv.org/abs/2505.07233), **Jiashuo Sun**, Xianrui Zhong, Sizhe Zhou, Jiawei Han
 
-12. ``Submission to NeurIPS 2025 Track Datasets and Benchmarks`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang&ast;, **Jiashuo Sun**&ast;, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
+12. ``Submission to ICLR 2026`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang&ast;, **Jiashuo Sun**&ast;, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
 
 # 👨‍💻 Open-Source Projects
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
