@@ -29,6 +29,8 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 🤝 **Looking for collaboration! If you are interested in working with me with any topics, please drop me an email.**
 
+🙌🏻 **I am actively seeking Summer 2026 Internship!**
+
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper ([DynamicRAG](https://www.arxiv.org/abs/2505.07233)) is accepted by NeurIPS 2025! See you in San Diego!
 - *2025.08*: &nbsp;🎉🎉 Join UIUC!
@@ -69,6 +71,8 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 12. ``Submission to ICLR 2026`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang&ast;, **Jiashuo Sun**&ast;, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
 
 # 👨‍💻 Open-Source Projects
+- [MetaGPT: The Multi-Agent Framework](https://github.com/FoundationAgents/MetaGPT)
+
 - [NanoRAG: Simple implementation of Retrieval-Augmented Generation System](https://github.com/GasolSun36/NanoRAG)
 
 - [PiXiu: Instruct-tuning Large Language Models with Chinese Financial Knowledge Graph](https://github.com/GasolSun36/pixiu/blob/main/README.md)
