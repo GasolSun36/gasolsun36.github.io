@@ -68,7 +68,9 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 11. ``NeurIPS 2025`` [DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation](https://www.arxiv.org/abs/2505.07233), **Jiashuo Sun**, Xianrui Zhong, Sizhe Zhou, Jiawei Han
 
-12. ``Submission to ICLR 2026`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang&ast;, **Jiashuo Sun**&ast;, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
+12. ``Submission to ICLR 2026`` [GRACE: Generative Representation Learning via Contrastive Policy Optimization](https://arxiv.org/pdf/2510.04506), **Jiashuo Sun**, Shixuan Liu, Zhaochen Su, Xianrui Zhong, Pengcheng Jiang, Bowen Jin, Peiran Li, Weijia Shi, Jiawei Han
+
+13. ``Submission to ICLR 2026`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang&ast;, **Jiashuo Sun**&ast;, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
 
 # 👨‍💻 Open-Source Projects
 - [MetaGPT: The Multi-Agent Framework](https://github.com/FoundationAgents/MetaGPT)
