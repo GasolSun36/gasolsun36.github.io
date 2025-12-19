@@ -75,6 +75,9 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 14. ``Submission to WWW 2026`` [Structure-R1: Dynamically Leveraging Structural Knowledge in LLM Reasoning through Reinforcement Learning
 ](https://arxiv.org/abs/2510.15191), Junlin Wu, Xianrui Zhong, **Jiashuo Sun**, Bolian Li, Bowen Jin, Jiawei Han, Qingkai Zeng
 
+15. ``Agent Survey`` [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301), Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi,..., **Jiashuo Sun**, Chaoqi Yang, Kun Qian, Tian Wang,..., Jimeng Sun, Jiawei Han
+
+
 # 👨‍💻 Open-Source Projects
 - [MetaGPT: The Multi-Agent Framework](https://github.com/FoundationAgents/MetaGPT)
 
