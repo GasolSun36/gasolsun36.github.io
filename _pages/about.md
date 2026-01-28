@@ -32,6 +32,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 🙌🏻 **I am actively seeking Summer 2026 Internship!**
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper ([GRACE](https://arxiv.org/pdf/2510.04506)) is accepted by ICLR 2026! See you in Brazil!
 - *2025.07*: &nbsp;🎉🎉 One paper ([DynamicRAG](https://www.arxiv.org/abs/2505.07233)) is accepted by NeurIPS 2025! See you in San Diego!
 - *2025.08*: &nbsp;🎉🎉 Join UIUC!
 - *2025.07*: &nbsp;🎉🎉 One paper ([CaReVL](https://dl.acm.org/doi/10.1145/3746027.3755697)) is accepted by ACMM 2025!
@@ -68,11 +69,11 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 11. ``NeurIPS 2025`` [DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation](https://www.arxiv.org/abs/2505.07233), **Jiashuo Sun**, Xianrui Zhong, Sizhe Zhou, Jiawei Han
 
-12. ``Submission to ICLR 2026`` [GRACE: Generative Representation Learning via Contrastive Policy Optimization](https://arxiv.org/pdf/2510.04506), **Jiashuo Sun**, Shixuan Liu, Zhaochen Su, Xianrui Zhong, Pengcheng Jiang, Bowen Jin, Peiran Li, Weijia Shi, Jiawei Han
+12. ``ICLR 2026`` [GRACE: Generative Representation Learning via Contrastive Policy Optimization](https://arxiv.org/pdf/2510.04506), **Jiashuo Sun**, Shixuan Liu, Zhaochen Su, Xianrui Zhong, Pengcheng Jiang, Bowen Jin, Peiran Li, Weijia Shi, Jiawei Han
 
-13. ``Submission to ICLR 2026`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang*, **Jiashuo Sun***, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
+13. ``Submission to ICML 2026`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang*, **Jiashuo Sun***, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
 
-14. ``Submission to WWW 2026`` [Structure-R1: Dynamically Leveraging Structural Knowledge in LLM Reasoning through Reinforcement Learning
+14. ``Submission to KDD 2026`` [Structure-R1: Dynamically Leveraging Structural Knowledge in LLM Reasoning through Reinforcement Learning
 ](https://arxiv.org/abs/2510.15191), Junlin Wu, Xianrui Zhong, **Jiashuo Sun**, Bolian Li, Bowen Jin, Jiawei Han, Qingkai Zeng
 
 15. ``Agent Survey`` [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301), Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi,..., **Jiashuo Sun**, Chaoqi Yang, Kun Qian, Tian Wang,..., Jimeng Sun, Jiawei Han
