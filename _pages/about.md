@@ -105,7 +105,6 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 # 💻 Internships and Work Experiences
 - *2024.08 - Present*, DAMO Academy, Alibaba Group, Research Engineer
-- *2024.01 - 2024.07*, Shanghai AI Laboratory General Technology Research, Research Intern
 - *2023.04 - 2023.12*, International Digital Economy Academy Fin-AI Group, Research Intern
 - *2022.09 - 2023.04*, Microsoft Research Asia NLC Group, Research Assitant
 
