@@ -79,7 +79,10 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 15. ``Submission to ICML 2026`` [Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.03689), **Jiashuo Sun**, Pengcheng Jiang, Saizhuo Wang, Jiajun Fan,..., Jiaxin Huang, Ge Liu, Heng Ji, Jiawei Han
 
 16. ``Agent Survey`` [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301), Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi,..., **Jiashuo Sun**, Chaoqi Yang, Kun Qian, Tian Wang,..., Jimeng Sun, Jiawei Han
-
+17. ``Submission to ICML 2026`` [Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs](https://arxiv.org/pdf/2602.07276), Pengrui Han, Xueqiang Xu, Keyang Xuan, Peiyang Song, Siru Ouyang, Runchu Tian, Yuqing Jiang, Cheng Qian, Pengcheng Jiang, **Jiashuo Sun**, Junxia Cui, Ming Zhong, Ge Liu, Jiawei Han, Jiaxuan You
+18. ``Submission to KDD 2026`` [TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation](https://arxiv.org/pdf/2603.09341), **Jiashuo Sun**, Yixuan Xie, Jimeng Shi, Shaowen Wang, Jiawei Han
+19. ``Submission to ICML 2026`` [BibAgent: An Agentic Framework for Traceable Miscitation Detection in Scientific Literature](https://arxiv.org/abs/2601.16993), Peiran Li, Fangzhou Lin, Shuo Xing, Xiang Zheng, Xi Hong, Siyuan Yang, **Jiashuo Sun**, Zhengzhong Tu, Chaoqun Ni
+20. ``Submission to ICML 2026`` [Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents](https://arxiv.org/abs/2603.05517), Peiran Li, **Jiashuo Sun**, Fangzhou Lin, Shuo Xing, Tianfu Fu, Suofei Feng, Chaoqun Ni, Zhengzhong Tu
 
 # 👨‍💻 Open-Source Projects
 - [MetaGPT: The Multi-Agent Framework](https://github.com/FoundationAgents/MetaGPT)
