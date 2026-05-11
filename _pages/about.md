@@ -85,9 +85,9 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 19. ``Submission to NeurIPS 2026`` [BibAgent: An Agentic Framework for Traceable Miscitation Detection in Scientific Literature](https://arxiv.org/abs/2601.16993), Peiran Li, Fangzhou Lin, Shuo Xing, Xiang Zheng, Xi Hong, Siyuan Yang, **Jiashuo Sun**, Zhengzhong Tu, Chaoqun Ni
 20. ``Submission to NeurIPS 2026`` [Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents](https://arxiv.org/abs/2603.05517), Peiran Li, **Jiashuo Sun**, Fangzhou Lin, Shuo Xing, Tianfu Fu, Suofei Feng, Chaoqun Ni, Zhengzhong Tu
 
-21. ``Submission to ACL 2026`` [Learning to Predict Future-Aligned Research Proposals with Language Models](https://arxiv.org/abs/), Heng Wang, Pengcheng Jiang, **Jiashuo Sun**, Zhiyi Shi, Haofei Yu, Jiawei Han, Heng Ji
+21. ``Submission to ACL 2026`` [Learning to Predict Future-Aligned Research Proposals with Language Models](https://arxiv.org/abs/2603.27146), Heng Wang, Pengcheng Jiang, **Jiashuo Sun**, Zhiyi Shi, Haofei Yu, Jiawei Han, Heng Ji
 
-22. ``Submission to NeurIPS 2026`` [Let the Abyss Stare Back: Adaptive Falsification for Autonomous Scientific Discovery](https://arxiv.org/abs/), Peiran Li, Fangzhou Lin, Shuo Xing, **Jiashuo Sun**, Dylan Zhang, Siyuan Yang, Chaoqun Ni, Zhengzhong Tu
+22. ``Submission to NeurIPS 2026`` [Let the Abyss Stare Back: Adaptive Falsification for Autonomous Scientific Discovery](https://arxiv.org/abs/2603.27146), Peiran Li, Fangzhou Lin, Shuo Xing, **Jiashuo Sun**, Dylan Zhang, Siyuan Yang, Chaoqun Ni, Zhengzhong Tu
 
 # 👨‍💻 Open-Source Projects
 - [MetaGPT: The Multi-Agent Framework](https://github.com/FoundationAgents/MetaGPT)
