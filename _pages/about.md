@@ -89,6 +89,8 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 22. ``Submission to NeurIPS 2026`` [Let the Abyss Stare Back: Adaptive Falsification for Autonomous Scientific Discovery](https://arxiv.org/abs/2603.27146), Peiran Li, Fangzhou Lin, Shuo Xing, **Jiashuo Sun**, Dylan Zhang, Siyuan Yang, Chaoqun Ni, Zhengzhong Tu
 
+23. ``Submission to NeurIPS 2026`` [Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation](https://arxiv.org/pdf/2605.12975), **Jiashuo Sun**, Jimeng Shi, Yixuan Xie, Saizhuo Wang, Jash Rajesh Parekh, Pengcheng Jiang, Zhiyi Shi, Jiajun Fan, Qinglong Zheng, Peiran Li, Shaowen Wang, Ge Liu, Jiawei Han
+
 # 👨‍💻 Open-Source Projects
 - [MetaGPT: The Multi-Agent Framework](https://github.com/FoundationAgents/MetaGPT)
 
