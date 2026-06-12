@@ -29,9 +29,10 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 🤝 **Looking for collaboration! If you are interested in working with me with any topics, please drop me an email.**
 
-🙌🏻 **I am actively seeking Summer 2026 Internship!**
+🙌🏻 **I am actively seeking Fall 2026 and Spring 2027 Part-time Internship!**
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Start as a student researcher at Google Deepmind! If you at Mountain View, we can have a coffee chat!
 - *2026.05*: &nbsp;🎉🎉 One paper ([BAR-RAG](https://arxiv.org/pdf/2602.03689)) is accepted by ICML 2026! See you in Seoul!
 - *2026.01*: &nbsp;🎉🎉 One paper ([GRACE](https://arxiv.org/pdf/2510.04506)) is accepted by ICLR 2026! See you in Brazil!
 - *2025.07*: &nbsp;🎉🎉 One paper ([DynamicRAG](https://www.arxiv.org/abs/2505.07233)) is accepted by NeurIPS 2025! See you in San Diego!
@@ -116,6 +117,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 
 # 💻 Internships and Work Experiences
+- *2024.05 - Present*, Google Deepmind, Student Researcher
 - *2024.08 - Present*, DAMO Academy, Alibaba Group, Research Engineer
 - *2023.04 - 2023.12*, International Digital Economy Academy Fin-AI Group, Research Intern
 - *2022.09 - 2023.04*, Microsoft Research Asia NLC Group, Research Assitant
