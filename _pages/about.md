@@ -19,7 +19,7 @@ redirect_from:
 
 I am a first-year Ph.D. student in Computer Science at **University of Illinois Urbana-Champaign (UIUC)**, under the supervision of [Prof. Jiawei Han](http://hanj.cs.illinois.edu/). 
 
-Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively. I also worked as researcher at **DAMO Academy, Alibaba Group** from August, 2024 to June, 2025.
+Before this, I received my Bachelor’s degree (2017-2021, computer science), Master's degree (2021-2024, computer science) from **Shandong University** and **Xiamen University**, respectively. I also worked as researcher at **DAMO Academy, Alibaba Group** from August, 2024 to April, 2025.
 
 🤔 Currently, my research interests are primarily focused on Large Language Models (LLMs), covering the following topics:
 - **Knowledge-Augmented LLMs** allow LLMs to make full use of external knowledge to solve real-world problems.
@@ -118,7 +118,7 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 # 💻 Internships and Work Experiences
 - *2026.05 - Present*, Google Deepmind, Student Researcher
-- *2024.08 - 2025.04*, DAMO Academy, Alibaba Group, Research Engineer
+- *2024.08 - 2025.04*, DAMO Academy, Alibaba Group, Algorithm Engineer
 - *2023.04 - 2024.01*, International Digital Economy Academy Fin-AI Group, Research Intern
 
 
