@@ -73,24 +73,30 @@ Before this, I received my Bachelor’s degree (2017-2021, computer science), Ma
 
 12. ``ICLR 2026`` [GRACE: Generative Representation Learning via Contrastive Policy Optimization](https://arxiv.org/pdf/2510.04506), **Jiashuo Sun**, Shixuan Liu, Zhaochen Su, Xianrui Zhong, Pengcheng Jiang, Bowen Jin, Peiran Li, Weijia Shi, Jiawei Han
 
-13. ``Submission to NeurIPS 2026`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang*, **Jiashuo Sun***, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
+13. ``NeurIPS 2026 Track Datasets and Benchmarks`` [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589), Zhikai Wang*, **Jiashuo Sun***, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao
 
-14. ``Submission to KDD 2026`` [Structure-R1: Dynamically Leveraging Structural Knowledge in LLM Reasoning through Reinforcement Learning
+14. ``Submission to AAAI 2027`` [Structure-R1: Dynamically Leveraging Structural Knowledge in LLM Reasoning through Reinforcement Learning
 ](https://arxiv.org/abs/2510.15191), Junlin Wu, Xianrui Zhong, **Jiashuo Sun**, Bolian Li, Bowen Jin, Jiawei Han, Qingkai Zeng
 
 15. ``ICML 2026`` [Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.03689), **Jiashuo Sun**, Pengcheng Jiang, Saizhuo Wang, Jiajun Fan,..., Jiaxin Huang, Ge Liu, Heng Ji, Jiawei Han
 
 16. ``Agent Survey`` [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301), Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi,..., **Jiashuo Sun**, Chaoqi Yang, Kun Qian, Tian Wang,..., Jimeng Sun, Jiawei Han
-17. ``Submission to NeurIPS 2026`` [Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs](https://arxiv.org/pdf/2602.07276), Pengrui Han, Xueqiang Xu, Keyang Xuan, Peiyang Song, Siru Ouyang, Runchu Tian, Yuqing Jiang, Cheng Qian, Pengcheng Jiang, **Jiashuo Sun**, Junxia Cui, Ming Zhong, Ge Liu, Jiawei Han, Jiaxuan You
-18. ``Submission to KDD 2026`` [TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation](https://arxiv.org/pdf/2603.09341), **Jiashuo Sun**, Yixuan Xie, Jimeng Shi, Shaowen Wang, Jiawei Han
-19. ``Submission to NeurIPS 2026`` [BibAgent: An Agentic Framework for Traceable Miscitation Detection in Scientific Literature](https://arxiv.org/abs/2601.16993), Peiran Li, Fangzhou Lin, Shuo Xing, Xiang Zheng, Xi Hong, Siyuan Yang, **Jiashuo Sun**, Zhengzhong Tu, Chaoqun Ni
-20. ``Submission to NeurIPS 2026`` [Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents](https://arxiv.org/abs/2603.05517), Peiran Li, **Jiashuo Sun**, Fangzhou Lin, Shuo Xing, Tianfu Fu, Suofei Feng, Chaoqun Ni, Zhengzhong Tu
+17. ``Submission to ICLR 2027`` [Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs](https://arxiv.org/pdf/2602.07276), Pengrui Han, Xueqiang Xu, Keyang Xuan, Peiyang Song, Siru Ouyang, Runchu Tian, Yuqing Jiang, Cheng Qian, Pengcheng Jiang, **Jiashuo Sun**, Junxia Cui, Ming Zhong, Ge Liu, Jiawei Han, Jiaxuan You
+18. ``Submission to NAACL 2027`` [TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation](https://arxiv.org/pdf/2603.09341), **Jiashuo Sun**, Yixuan Xie, Jimeng Shi, Shaowen Wang, Jiawei Han
+19. ``Submission to ICLR 2027`` [BibAgent: An Agentic Framework for Traceable Miscitation Detection in Scientific Literature](https://arxiv.org/abs/2601.16993), Peiran Li, Fangzhou Lin, Shuo Xing, Xiang Zheng, Xi Hong, Siyuan Yang, **Jiashuo Sun**, Zhengzhong Tu, Chaoqun Ni
+20. ``Submission to ICLR 2027`` [Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents](https://arxiv.org/abs/2603.05517), Peiran Li, **Jiashuo Sun**, Fangzhou Lin, Shuo Xing, Tianfu Fu, Suofei Feng, Chaoqun Ni, Zhengzhong Tu
 
-21. ``Submission to ACL 2026`` [Learning to Predict Future-Aligned Research Proposals with Language Models](https://arxiv.org/abs/2603.27146), Heng Wang, Pengcheng Jiang, **Jiashuo Sun**, Zhiyi Shi, Haofei Yu, Jiawei Han, Heng Ji
+21. ``EMNLP 2026`` [Learning to Predict Future-Aligned Research Proposals with Language Models](https://arxiv.org/abs/2603.27146), Heng Wang, Pengcheng Jiang, **Jiashuo Sun**, Zhiyi Shi, Haofei Yu, Jiawei Han, Heng Ji
 
-22. ``Submission to NeurIPS 2026`` [Let the Abyss Stare Back: Adaptive Falsification for Autonomous Scientific Discovery](https://arxiv.org/abs/2603.27146), Peiran Li, Fangzhou Lin, Shuo Xing, **Jiashuo Sun**, Dylan Zhang, Siyuan Yang, Chaoqun Ni, Zhengzhong Tu
+22. ``Submission to ICLR 2027`` [Let the Abyss Stare Back: Adaptive Falsification for Autonomous Scientific Discovery](https://arxiv.org/abs/2603.27146), Peiran Li, Fangzhou Lin, Shuo Xing, **Jiashuo Sun**, Dylan Zhang, Siyuan Yang, Chaoqun Ni, Zhengzhong Tu
 
-23. ``Submission to NeurIPS 2026`` [Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation](https://arxiv.org/pdf/2605.12975), **Jiashuo Sun**, Jimeng Shi, Yixuan Xie, Saizhuo Wang, Jash Rajesh Parekh, Pengcheng Jiang, Zhiyi Shi, Jiajun Fan, Qinglong Zheng, Peiran Li, Shaowen Wang, Ge Liu, Jiawei Han
+23. ``Submission to ICLR 2027`` [Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation](https://arxiv.org/pdf/2605.12975), **Jiashuo Sun**, Jimeng Shi, Yixuan Xie, Saizhuo Wang, Jash Rajesh Parekh, Pengcheng Jiang, Zhiyi Shi, Jiajun Fan, Qinglong Zheng, Peiran Li, Shaowen Wang, Ge Liu, Jiawei Han
+
+24. ``Submission to AAAI 2027`` [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering](https://arxiv.org/abs/2608.21252), Xuanyu Meng, **Jiashuo Sun**, Jash Rajesh Parekh, Jiawei Han
+
+25. ``Submission to ICLR 2027`` [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](https://arxiv.org/abs/2606.02373), Pengcheng Jiang, Zhiyi Shi, Kelly Hong, Xueqiang Xu, **Jiashuo Sun**, Jimeng Sun, Hammad Bashir, Jiawei Han
+
+26. ``KDD 2026 Tutorial`` [Structure Shapes the Future of Data×LLM Systems: Retrieval, Structuring, and Reasoning]([YOUR_LINK](https://dl.acm.org/doi/10.1145/3770855.3816461)), Pengcheng Jiang, **Jiashuo Sun**, Wonbin Kweon, Jiawei Han
 
 # 👨‍💻 Open-Source Projects
 - [MetaGPT: The Multi-Agent Framework](https://github.com/FoundationAgents/MetaGPT)
